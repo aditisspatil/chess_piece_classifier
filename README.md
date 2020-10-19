@@ -1,7 +1,10 @@
 # Chess Piece Classifier
 Image Classification project using transfer learning.
+
+## Scope
 This is an image classifier for chess pieces, which takes an image of chess piece and predicts its name as king, queen, rook, bishop, knight or pawn.
  
+## Notes
 I have added 2 versions of notebook, to ensure the rendering. 
 The bigger verion has image outputs, and hence bigger size, which is not redered on GitHub.
 The smaller verion only contains image of confusion matrix, and it is loaded properly.
